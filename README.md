@@ -24,7 +24,7 @@ O `In Orbit` é um rastreador de hábitos, onde é possível criar e monitorar o
 
 1. Clone estes repositório:
 ```bash
-https://github.com/IagoNascimentocode/in-orbit-web.git
+https://github.com/IagoNascimentocode/in-orbit-server.git
 ```
 
 2. Instale as dependências:
@@ -46,5 +46,5 @@ npm install
 # Observação: 
 
 Este repositório contém apenas o **backend** do projeto `In Orbit`. Para acessar o **frontend**, visite o seguinte repositório:  
-[Link para o repositório do frontend](https://github.com/seu-usuario/in-orbit-frontend)
+[Link para o repositório do frontend](https://github.com/IagoNascimentocode/in-orbit-web.git)
 
